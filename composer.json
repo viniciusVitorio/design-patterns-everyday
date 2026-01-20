@@ -1,0 +1,9 @@
+{
+    "name": "vinicius/design-patterns-everyday",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
