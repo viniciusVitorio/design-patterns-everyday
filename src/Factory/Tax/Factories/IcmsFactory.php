@@ -1,8 +1,9 @@
 <?php
 
-namespace App\Factory;
+namespace App\Factory\Tax\Factories;
 
 use App\Factory\Tax\Icms;
+use App\Factory\TaxInterface;
 
 class IcmsFactory extends TaxFactory
 {

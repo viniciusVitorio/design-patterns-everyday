@@ -1,6 +1,8 @@
 <?php
 
-namespace App\Factory;
+namespace App\Factory\Tax\Factories;
+
+use App\Factory\TaxInterface;
 
 abstract class TaxFactory
 {
