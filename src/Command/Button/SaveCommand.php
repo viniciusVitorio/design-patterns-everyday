@@ -1,0 +1,13 @@
+<?php
+
+namespace App\Command\Button;
+
+use App\Command\Command;
+
+class SaveCommand implements Command
+{
+    public function execute(): void
+    {
+        echo "Saving...\n";
+    }
+}
